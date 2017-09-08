@@ -1,2 +1,2 @@
-# fantasy-basketball-scraper
-Scrape fantasy basketball draft data from the big-name stats sources
+# yahoo-login
+Gobble up an authenticated Yahoo session by mechanizing the login process
